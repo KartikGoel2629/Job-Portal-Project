@@ -2,8 +2,7 @@
 
 A full-stack job interview platform designed to streamline the hiring process. Recruiters can post jobs and manage applicants, while job seekers can browse listings, apply, and track their application status in real-time.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Render Deployment](https://img.shields.io/badge/Hosted%20on-Render-blue)](https://render.com/)
+
 [![React](https://img.shields.io/badge/Frontend-React-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-yellowgreen)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)](https://mongodb.com/)
