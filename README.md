@@ -130,26 +130,7 @@ A full-stack job interview platform designed to streamline the hiring process. R
    npm run dev
    ```
 
----
 
-## Folder Structure
-
-```
-job-portal/
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── redux/
-│   │   └── App.jsx
-└── README.md
-```
 
 ---
 
