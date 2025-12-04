@@ -154,9 +154,6 @@ job-portal/
 ---
 
 
-
----
-
 ## Notes
 
 - Resume files are uploaded securely via Cloudinary.
