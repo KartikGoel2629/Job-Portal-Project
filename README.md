@@ -12,8 +12,8 @@ A full-stack job interview platform designed to streamline the hiring process. R
 
 
 <img width="1261" height="667" alt="image" src="https://github.com/user-attachments/assets/70cd5e76-a9c9-4a1b-8724-2fdb07e11d78" /> <br>
+<img width="1282" height="662" alt="image" src="https://github.com/user-attachments/assets/cf5f7973-a866-45af-bae9-1627f30386a2" /> <br>
 <img width="1261" height="667" alt="Student 1" src="https://github.com/user-attachments/assets/9ececd51-f1d3-47b4-9976-240da652a5a8" /> <br>
-<img width="1279" height="676" alt="image" src="https://github.com/user-attachments/assets/aa3420fc-81c1-459f-8586-b637ff27daf6" /> <br>
 <img width="1263" height="667" alt="image" src="https://github.com/user-attachments/assets/c00bcebb-c1d9-40c9-ac11-8a0b7ea54969" /> <br>
 
 
